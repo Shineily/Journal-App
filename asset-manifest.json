@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Journal-app/static/css/main.b3018b1b.chunk.css",
-    "main.js": "/Journal-app/static/js/main.c542dc1d.chunk.js",
-    "main.js.map": "/Journal-app/static/js/main.c542dc1d.chunk.js.map",
-    "runtime-main.js": "/Journal-app/static/js/runtime-main.5d0b86c8.js",
-    "runtime-main.js.map": "/Journal-app/static/js/runtime-main.5d0b86c8.js.map",
-    "static/css/2.3d056dbd.chunk.css": "/Journal-app/static/css/2.3d056dbd.chunk.css",
-    "static/js/2.b3505f6d.chunk.js": "/Journal-app/static/js/2.b3505f6d.chunk.js",
-    "static/js/2.b3505f6d.chunk.js.map": "/Journal-app/static/js/2.b3505f6d.chunk.js.map",
-    "index.html": "/Journal-app/index.html",
-    "precache-manifest.3cd8b39919c36d34f8dab7740ca246a3.js": "/Journal-app/precache-manifest.3cd8b39919c36d34f8dab7740ca246a3.js",
-    "service-worker.js": "/Journal-app/service-worker.js",
-    "static/css/2.3d056dbd.chunk.css.map": "/Journal-app/static/css/2.3d056dbd.chunk.css.map",
-    "static/css/main.b3018b1b.chunk.css.map": "/Journal-app/static/css/main.b3018b1b.chunk.css.map",
-    "static/js/2.b3505f6d.chunk.js.LICENSE.txt": "/Journal-app/static/js/2.b3505f6d.chunk.js.LICENSE.txt"
+    "main.css": "/Journal-App/static/css/main.b3018b1b.chunk.css",
+    "main.js": "/Journal-App/static/js/main.c542dc1d.chunk.js",
+    "main.js.map": "/Journal-App/static/js/main.c542dc1d.chunk.js.map",
+    "runtime-main.js": "/Journal-App/static/js/runtime-main.2a0e8efc.js",
+    "runtime-main.js.map": "/Journal-App/static/js/runtime-main.2a0e8efc.js.map",
+    "static/css/2.3d056dbd.chunk.css": "/Journal-App/static/css/2.3d056dbd.chunk.css",
+    "static/js/2.a64e3291.chunk.js": "/Journal-App/static/js/2.a64e3291.chunk.js",
+    "static/js/2.a64e3291.chunk.js.map": "/Journal-App/static/js/2.a64e3291.chunk.js.map",
+    "index.html": "/Journal-App/index.html",
+    "precache-manifest.49a7909e273ded847884e701ce013b22.js": "/Journal-App/precache-manifest.49a7909e273ded847884e701ce013b22.js",
+    "service-worker.js": "/Journal-App/service-worker.js",
+    "static/css/2.3d056dbd.chunk.css.map": "/Journal-App/static/css/2.3d056dbd.chunk.css.map",
+    "static/css/main.b3018b1b.chunk.css.map": "/Journal-App/static/css/main.b3018b1b.chunk.css.map",
+    "static/js/2.a64e3291.chunk.js.LICENSE.txt": "/Journal-App/static/js/2.a64e3291.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d0b86c8.js",
+    "static/js/runtime-main.2a0e8efc.js",
     "static/css/2.3d056dbd.chunk.css",
-    "static/js/2.b3505f6d.chunk.js",
+    "static/js/2.a64e3291.chunk.js",
     "static/css/main.b3018b1b.chunk.css",
     "static/js/main.c542dc1d.chunk.js"
   ]
